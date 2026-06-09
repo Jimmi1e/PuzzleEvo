@@ -8,7 +8,7 @@
 
 ---
 
-## 🇬🇧 English Version
+## 🇺🇸🇬🇧🇨🇦🇦🇺🇳🇿 English Version
 
 ### 📖 Introduction
 
@@ -93,4 +93,4 @@ Based on our clean separation of concerns, here is how the project is organized:
     python puzzle_viewer.py
 
 ---
-*Created with ❤️ by [Jimmi1e](https://github.com/Jimmi1e)*
+*Created with ❤️ by [Yuhang Chen](https://github.com/waterkingest) and [Jimmi1e (Jiaxi Yang)](https://github.com/Jimmi1e)*

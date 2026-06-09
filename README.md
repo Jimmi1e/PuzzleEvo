@@ -48,7 +48,12 @@ Based on our clean separation of concerns, here is how the project is organized:
 **3. View the puzzle visualization:**
 
     python puzzle_viewer.py
+**4. Result**
+<img width="1208" height="1152" alt="output" src="https://github.com/user-attachments/assets/220e0d6c-157a-451b-a019-c7b4a76ce8f4" />
 
+### 🚧 Current Status & Future Updates
+
+> **Note:** The current algorithmic results have not yet achieved a **0 mismatch** state. This repository is under active development and will be **continuously updated**. Our primary goal in the upcoming iterations is to fully resolve this issue and achieve a perfect 0 mismatch result.
 ---
 
 ## 🇨🇳 中文版
@@ -91,6 +96,12 @@ Based on our clean separation of concerns, here is how the project is organized:
 **3. 启动谜题可视化查看器：**
 
     python puzzle_viewer.py
+**4. 可视化结果**
+<img width="1208" height="1152" alt="output" src="https://github.com/user-attachments/assets/adb22d3b-e44c-4167-98e4-b92535e8dd12" />
+
+### 🚧 当前状态与后续更新
+
+> **注意：** 目前的算法求解结果尚未达到 **0 mismatch** 的状态。本仓库将会处于**持续更新**中，我们后续优化的核心目标就是彻底解决该问题，力求最终实现完全的 0 mismatch。
 
 ---
 *Created with ❤️ by [Yuhang Chen](https://github.com/AtomChen0425) and [Jimmi1e (Jiaxi Yang)](https://github.com/Jimmi1e)*
